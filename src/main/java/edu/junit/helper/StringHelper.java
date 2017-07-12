@@ -1,3 +1,4 @@
+package edu.junit.helper;
 
 public class StringHelper {
 
